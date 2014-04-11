@@ -1,0 +1,10 @@
+nav li.active {
+	color: #F00;
+	text-decoration: underline;
+}
+
+.media-item.active {
+	background:#333;
+	color: #FFF;
+}
+
